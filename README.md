@@ -1,4 +1,4 @@
-![image](https://github.com/kdahun/Apache_server/assets/101082485/fe30ef28-ae66-410b-b209-ebcd53acead1)# Apache_server
+Apache_server
 
 ## 1. MySql 깔기
 
