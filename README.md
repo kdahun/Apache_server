@@ -30,6 +30,7 @@ Apache_server
    * 979라인 : date.timezone = Asia/Seoul로 변경
 2. Apache의 Httpd.conf파일 수정
    * 285 라인 쯤에 DirectoryIndex index.html > DirectoryIndex index.php index.html(index.php 추가)
+     
      ![image](https://github.com/kdahun/Apache_server/assets/101082485/62f4fe79-a4b6-4778-bfdd-ba00eb652ab9)
 
      
