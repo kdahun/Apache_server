@@ -30,11 +30,17 @@ Apache_server
    * 979라인 : date.timezone = Asia/Seoul로 변경
 2. Apache의 Httpd.conf파일 수정
    * 285 라인 쯤에 DirectoryIndex index.html > DirectoryIndex index.php index.html(index.php 추가)
+  ![image](https://github.com/kdahun/Apache_server/assets/101082485/62f4fe79-a4b6-4778-bfdd-ba00eb652ab9)
+
+     
    * 맨 마지막 라인에 다음을 추가
        - PHPIniDir "c:/APM/php8" (자신의 php8폴더의 경로를 넣어주면 된다.)
        - LoadModule php_module "c:/php8/php8apache2_4.dll"
        - AddType application/x-httpd-php .html .php
        - AddHandler application/x-httpd-php .php
+
+     ![image](https://github.com/kdahun/Apache_server/assets/101082485/99f5ac97-7d76-45d7-9364-a396fc5f7661)
+
     
 만약 VC_redist가 안깔려 있으면 안되니 깔자!
 
