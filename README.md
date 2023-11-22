@@ -31,7 +31,7 @@ Apache_server
 2. Apache의 Httpd.conf파일 수정
    * 285 라인 쯤에 DirectoryIndex index.html > DirectoryIndex index.php index.html(index.php 추가)
      
-  ![image](https://github.com/kdahun/Apache_server/assets/101082485/62f4fe79-a4b6-4778-bfdd-ba00eb652ab9)
+    ![image](https://github.com/kdahun/Apache_server/assets/101082485/62f4fe79-a4b6-4778-bfdd-ba00eb652ab9)
 
      
    * 맨 마지막 라인에 다음을 추가
