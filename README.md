@@ -6,6 +6,7 @@ Apache_server
 1. Apachelounge.com 다운로드
 2. Apach24 폴더 > conf 폴더 > httpd.conf 파일
    * 37라인 : Define SRVROOT "c:/APM/Apache24" (경로 수정)
+     
    ![image](https://github.com/kdahun/Apache_server/assets/101082485/39304f09-9307-4855-9a5a-1d333583f1e2)
 
    * 60라인 : Listen 80(확인 하기)
