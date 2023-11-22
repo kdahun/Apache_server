@@ -14,7 +14,8 @@ Apache_server
        - httpd.exe : ApacheHTTPServer의 실행 파일
        - -k install : Apache 서버를 Windows 서비스로
    * httpd.exe -k start : ApacheHTTPServer를 시작하는 명령어
-     - -k start : Apache 서버를 시작하는 옵션. 
+     - -k start : Apache 서버를 시작하는 옵션.
+       
    ![image](https://github.com/kdahun/Apache_server/assets/101082485/9f1cbc24-f02c-4007-ab02-a3e30ac1ef65)
 
    * -k는 Apache 서버의 명령을 제어하는 데 사용된다.
