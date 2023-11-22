@@ -55,4 +55,5 @@ Htdocs 폴더에 phpinfo.php파일 생성 > <?php phpinfo() ?> 코드 추가 > h
 1. phpmyadmin.net/donate에서 phpmyadmin을 다운 받기
 2. 압축을 풀고 htdocs 폴더로 이동
 3. http://localhost/phpmyadmin
+   
 ![image](https://github.com/kdahun/Apache_server/assets/101082485/bc90013f-83a6-4c01-9a47-ae659a9a46bf)
